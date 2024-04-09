@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SachinVermaDTU
+- 👋 Hi, I’m @Sachin
 - 👀 I’m interested in Android and any intresting technology 
 - 🌱 I’m currently learning Tensor Flow, Android Development . 
 - 💞️ I’m looking to collaborate on any android project .
