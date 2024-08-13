@@ -1,5 +1,7 @@
 # Sachin Verma
 
+![Github Banner](https://github.com/SachinVermaDTU/SachinVermaDTU/blob/main/Github%20Banner.jpeg)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sachinvermadtu)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/SachinVermaDTU)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/SachinVermaDTU/)
