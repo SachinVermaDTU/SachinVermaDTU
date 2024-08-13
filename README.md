@@ -19,10 +19,15 @@ I'm Sachin Verma, an enthusiastic Android developer with a solid background in C
 - **Description:** A news aggregation app that utilizes the MVVM architecture pattern. The app features a clean UI built with Jetpack Compose, and fetches news articles using the NewsAPI integrated with Postman. Dependency injection is managed with Dagger Hilt, optimizing app performance by reducing runtime overhead.
 - **[GitHub Repository](https://github.com/SachinVermaDTU/NewsApp)**
 
-### Fashion Classifier
-- **Technologies:** Python, Convolutional Neural Networks (CNN)
-- **Description:** This project involves a fashion classification model developed using a dataset of over 60,000 images. The model employs CNNs with MaxPooling layers to achieve high accuracy in classifying fashion items.
-- **[GitHub Repository](https://github.com/SachinVermaDTU/FashionClassifier)**
+### ChatWithGemini
+- **Technologies:** Kotlin, Android Studio
+- **Description:** ChatWithGemini is an Android chat application developed to facilitate real-time communication. It features a clean and intuitive UI, with backend integration for message storage and retrieval.
+- **[GitHub Repository](https://github.com/SachinVermaDTU/ChatWithGemini)**
+
+### LanCalci
+- **Technologies:** Kotlin, Jetpack Compose
+- **Description:** LanCalci is an Android calculator app that supports multiple languages, providing a versatile tool for global users. The app is built using Jetpack Compose to ensure a smooth and responsive user interface.
+- **[GitHub Repository](https://github.com/SachinVermaDTU/LanCalci)**
 
 ## 🏆 Achievements
 - Specialist on Codeforces with a maximum rating of 1400+.
