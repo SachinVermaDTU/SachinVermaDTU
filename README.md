@@ -31,6 +31,11 @@ I'm Sachin Verma, an enthusiastic Android developer with a solid background in C
 - **Description:** LanCalci is an Android calculator app that supports multiple languages, providing a versatile tool for global users. The app is built using Jetpack Compose to ensure a smooth and responsive user interface.
 - **[GitHub Repository](https://github.com/SachinVermaDTU/LanCalci)**
 
+### Quotes
+- **Technologies:** Kotlin, Jetpack Compose, Material3, Coroutines, JSON
+- **Description:** Quotes is a simple yet elegant Android application that allows users to browse and select quotes from an extensive collection. Built using Jetpack Compose for a modern UI and Material3 components, the app leverages Coroutines for efficient background processing, ensuring a smooth and responsive user experience. The quotes are displayed using `LazyColumn` for optimal performance with large datasets, and the data is extracted from a JSON file to dynamically populate the app's content.
+- **[GitHub Repository](https://github.com/SachinVermaDTU/QuotesApp)**
+
 ## 🏆 Achievements
 - Specialist on Codeforces with a maximum rating of 1400+.
 - Knight on LeetCode, ranked among the top 4.4% with a max rating of 1900+.
